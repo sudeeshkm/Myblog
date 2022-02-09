@@ -1,0 +1,18 @@
+.page{
+    max-width: 700px;
+
+    color: rgb(243, 240, 229);
+    margin-left: 400px;
+    background-image: "./images/bg.jpg";
+  }
+  .page h2{
+    text-align: center;
+    text-shadow: #556b2f 2px solid;
+    color:mediumorchid
+  }
+ 
+  .page h3{
+    text-align: center;
+    text-shadow: #556b2f 2px solid;
+    color:mediumorchid
+  }
